@@ -15,7 +15,7 @@ function Header() {
   return (
     <Container>
       <Logo>
-        <a href='#/'>
+        <a href='/'>
           <img src='./images/logo.svg' alt='tesla logo' />
         </a>
       </Logo>
@@ -27,8 +27,8 @@ function Header() {
       </Menu>
 
       <RightMenu>
-        <a href='#/'>Shop</a>
-        <a href='#/'>Tesla Acount</a>
+        <a href='#_'>Shop</a>
+        <a href='#_'>Tesla Acount</a>
         <CustomMenu onClick={() => setBurgerStatus(true)} />
       </RightMenu>
       <BurgerNav show={burgerStatus} >
@@ -39,14 +39,14 @@ function Header() {
         <li><a href="#Accessories">Existing Inventory</a></li>
         <li><a href="#Accessories">Used Inventory</a></li>
         <li><a href="#Accessories">Trade-in</a></li>
-        <li><a href="#/">Cyber Truck</a></li>
-        <li><a href="#/">Roadster</a></li>
-        <li><a href="#/">Semi</a></li>
-        <li><a href="#/">Charging</a></li>
-        <li><a href="#/">Powerwall</a></li>
-        <li><a href="#/">Comercial Energy</a></li>
-        <li><a href="#/">Utilities</a></li>
-        <li><a href="#/">Test Drive</a></li>
+        <li><a href="/">Cyber Truck</a></li>
+        <li><a href="/">Roadster</a></li>
+        <li><a href="/">Semi</a></li>
+        <li><a href="#SolarPanel">Charging</a></li>
+        <li><a href="#SolarPanel">Powerwall</a></li>
+        <li><a href="#SolarPanel">Comercial Energy</a></li>
+        <li><a href="#Accessories">Utilities</a></li>
+        <li><a href="#_">Test Drive</a></li>
       </BurgerNav>
     </Container>
   )
