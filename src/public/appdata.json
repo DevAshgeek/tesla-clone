@@ -2,7 +2,7 @@
   "items": [
     {
       "title": "Model S",
-      "id": "Model S",
+      "id": "ModelS",
       "description": "Order online for Touchless Delivery",
       "backgroundImage": "model-s.jpg",
       "leftBtnTxt": "Custom Order",
@@ -10,7 +10,7 @@
     },
     {
       "title": "Model Y",
-      "id": "Model Y",
+      "id": "ModelY",
       "description": "Order online for Touchless Delivery",
       "backgroundImage": "model-y.jpg",
       "leftBtnTxt": "Custom Order",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Model 3",
-      "id": "Model 3",
+      "id": "Model3",
       "description": "Order online for Touchless Delivery",
       "backgroundImage": "model-3.jpg",
       "leftBtnTxt": "Custom Order",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Model X",
-      "id": "Model X",
+      "id": "ModelX",
       "description": "Order online for Touchless Delivery",
       "backgroundImage": "model-x.jpg",
       "leftBtnTxt": "Custom Order",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Lowest Cost Solar Panel in America",
-      "id": "Solar Panel",
+      "id": "SolarPanel",
       "description": "Money back guarantee",
       "backgroundImage": "solar-panel.jpg",
       "leftBtnTxt": "Order Now",

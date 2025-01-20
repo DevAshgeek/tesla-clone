@@ -6,7 +6,7 @@ function Home({ data }) {
 
     const sections = data.map((item) => (
         <Section
-            key={item.title}
+            key={item.title} id={item.id}
             title={item.title}
             description={item.description}
             backgroundImage={item.backgroundImage}
