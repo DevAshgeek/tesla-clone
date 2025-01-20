@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "title": "Model S",
+      "id": "Model S",
+      "description": "Order online for Touchless Delivery",
+      "backgroundImage": "model-s.jpg",
+      "leftBtnTxt": "Custom Order",
+      "rightBtnTxt": "Existing Inventory"
+    },
+    {
+      "title": "Model Y",
+      "id": "Model Y",
+      "description": "Order online for Touchless Delivery",
+      "backgroundImage": "model-y.jpg",
+      "leftBtnTxt": "Custom Order",
+      "rightBtnTxt": "Existing Inventory"
+    },
+    {
+      "title": "Model 3",
+      "id": "Model 3",
+      "description": "Order online for Touchless Delivery",
+      "backgroundImage": "model-3.jpg",
+      "leftBtnTxt": "Custom Order",
+      "rightBtnTxt": "Existing Inventory"
+    },
+    {
+      "title": "Model X",
+      "id": "Model X",
+      "description": "Order online for Touchless Delivery",
+      "backgroundImage": "model-x.jpg",
+      "leftBtnTxt": "Custom Order",
+      "rightBtnTxt": "Existing Inventory"
+    },
+    {
+      "title": "Lowest Cost Solar Panel in America",
+      "id": "Solar Panel",
+      "description": "Money back guarantee",
+      "backgroundImage": "solar-panel.jpg",
+      "leftBtnTxt": "Order Now",
+      "rightBtnTxt": "Learn More"
+    },
+    {
+      "title": "Accessories",
+      "id": "Accessories",
+      "description": "All Accessories you can think of.",
+      "backgroundImage": "accessories.jpg",
+      "leftBtnTxt": "Order Now"
+    }
+  ]
+}
