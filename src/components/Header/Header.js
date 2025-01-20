@@ -15,7 +15,7 @@ function Header() {
   return (
     <Container>
       <Logo>
-        <a href='#'>
+        <a href='#/'>
           <img src='./images/logo.svg' alt='tesla logo' />
         </a>
       </Logo>
